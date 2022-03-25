@@ -1,11 +1,11 @@
-{
-  "rom_url": "https://hugeota.d.miui.com/V12.5.4.0.RCOCNXM/miui_GINKGO_V12.5.4.0.RCOCNXM_7b06ce4b4d_11.0.zip"
+{MIUI
+  "rom_url": "https://hugeota.d.miui.com/V12.5.6.0.RFKCNXM/miui_RAPHAEL_V12.5.6.0.RFKCNXM_f5fe3b4a6f_11.0.zip"
   "rom_name": "xiaomi.oxy.zip",
   "pack_sgsi": "HMNote8_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
-  "make_miui": false,
+  "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
-  "make_h2os": true,
+  "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
   "make_super": false,
